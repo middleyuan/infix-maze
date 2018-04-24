@@ -9,6 +9,7 @@ Each cell can be visited at most one time. The priority directions are: down>rig
 
 No negative number. EX: - 5 + 3 is illegal.
 
+![image](https://github.com/middleyuan/infix-maze/blob/master/maze.JPG)
 # Input
 First line is total number of matrices.
 
